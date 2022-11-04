@@ -3,27 +3,27 @@
 
 # Code Innovation Series  🎉
 
-Code Innovation Series is an open source focussed student developer skilling program in GitHub Campus Schools 
+Code Innovation Series es un programa de talleres para estudiantes centrado en código abierto
 
 ## Workshop 💻
-- Schedule: 4th Nov, 2022
-- Topics covered: `Open Source Fundamentals`, `Getting started with Git & GitHub`, `GitHub Actions`, `Building simple applications using Student Developer Pack`.
+- Fecha: Noviembre 4, 2022
+- Temas cubiertos: `fundamentos de open source, primeros pasos con Git y GitHub`, `primeros pasos con Git y GitHub`, `GitHub Actions`, `creación de aplicaciones con ayuda del Student Developer Pack`.
 
 
-## Join the hackathon 🚀
-- Schedule: 4th Nov, 2022 to 8th Nov, 2022
+## Únete al hackathon 🚀
+- Fechas: 4 - 8 noviembre
 
-Theme: Build creative hacks that empower you do to more using GitHub Student Developer Pack tools. 
+Tema: Build creative hacks that empower you do to more using GitHub Student Developer Pack tools. 
 
-1. Build a project on GitHub 
-2. Use Student Developer Pack Tools 
-3. Submit your project [here](https://github.com/GitHub-Campus-Program-LATAM/CIS/issues/new/choose)
+1. Contruye un proyecto en GitHub
+2. Utiliza las herramientas del Student Developer Pack 
+3. Envía tu proyecto [aquí](https://github.com/GitHub-Campus-Program-LATAM/CIS/issues/new/choose)
 
-### Swags 🎁
-GitHub Team will review the hackathon project submissions and ship exclusive swag packs to the best ones. 
+### Premios 🎁
+El equipo de GitHub revisará los proyectos del hackathon y enviará paquetes exclusivos a los mejores.
 
 
-### Note: 
-- We've setup issue form for you all to submit your hackathon projects
-- All communications, reviews and tracking to project submissions will be done via GitHub Issues 👀 
-- Submissions must use tools from the GitHub Student Developer Pack and be hosted in a public GitHub repository. If we can't access the GitHub repository where your code lives, we won't be able to evaluate your submissions. 
+### Notas: 
+- Hemos configurado un issue para que todos puedan enviar sus proyectos de hackathon
+- Todas las comunicaciones, revisiones y seguimiento de envíos de proyectos se realizarán a través de GitHub Issues 👀
+- Los proyectos deben usar herramientas del Student Developer Pack y estar alojadas en un repositorio público de GitHub. Si no podemos acceder al repositorio de GitHub donde se encuentra tu código, no podremos evaluar sus envíos.
