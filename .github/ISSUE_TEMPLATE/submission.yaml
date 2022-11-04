@@ -1,53 +1,53 @@
-name: Project Submission
-description: Submit your project
+name: Enviar proyecto para el Hackathon
+description: Envía tu proyecto 
 title: "[Project] <title>"
 labels: [Project, Needs Triage]
 body:
 - type: checkboxes
   attributes:
-    label: Did you attend the GitHub Workshop? 
-    description: Please select ✅ if you have attended the GitHub Workshop
+    label: ¿Asististe al taller de GitHub?
+    description: Seleccione ✅ si ha asistido al taller de GitHub
     options:
-    - label: I have attended the GitHub Workshop
+    - label: He asistido al Workshop de GitHub
       required: true
 - type: input
   attributes:
-    label: Project Name
-    description: Please add a name to your weekend project.
+    label: Nombre del proyecto
+    description: Agregue un nombre a su proyecto.
   validations:
     required: true
 - type: input
   attributes:
-    label: Project Repository
-    description: Please share GitHub repository link of your project.
+    label: Repositorio del proyecto
+    description: Comparte el enlace del repositorio de GitHub de tu proyecto.
   validations:
     required: true
 - type: input
   attributes:
     label: Project URL
-    description: Please share demo link of your project or demo video.
+    description: Comparta el enlace de demostración de tu proyecto o video de demostración.
   validations:
     required: true
 - type: input
   attributes:
-    label: University Name
-    description: Please add your institution name.
+    label: Nombre de la Universidad/instituación
+    description: Por favor agregue el nombre de la institución.
   validations:
     required: true
 - type: textarea
   attributes:
-    label: Project Description
+    label: Descripción del Proyecto
     description: |
-      Links? References? Anything that will give us more context about your project!
+      Descripción del proyectoaEnlaces? ¿Referencias? ¡Cualquier cosa que nos dé más contexto sobre tu proyecto!
 
-      Tip: You can attach project details - pdf files, project presentation, images by clicking this area to highlight it and then dragging files in.
+       Sugerencia: puede adjuntar detalles del proyecto: archivos pdf, presentación del proyecto, imágenes haciendo clic en esta área para resaltarla y luego arrastrando los archivos.
   validations:
     required: false
 - type: dropdown
   attributes:
-    label: GitHub Student Developer Pack Tools Used
+    label: Herramientas del GitHub Student Developer Pack Tools usadas
     description: |
-      Projects must use at least one tool from the Pack.
+      Los proyectos deben utilizar al menos una herramienta del Pack.
     multiple: true
     options:
       - Deepsource
@@ -64,5 +64,6 @@ body:
       - Astra
       - WiseJ
       - LogDNA
+      - Other
   validations:
     required: true
