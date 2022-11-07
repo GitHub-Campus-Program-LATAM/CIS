@@ -11,7 +11,7 @@ Code Innovation Series es un programa de talleres para estudiantes centrado en c
 
 
 ## Únete al hackathon 🚀
-- Fechas: 4 - 8 noviembre
+- Fechas: 4 - 11 noviembre [hasta medianoche]
 
 Tema: Build creative hacks that empower you do to more using GitHub Student Developer Pack tools. 
 
