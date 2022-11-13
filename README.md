@@ -5,6 +5,10 @@
 
 Code Innovation Series es un programa de talleres para estudiantes centrado en código abierto
 
+## Actualización 13 Nov 💻
+
+Muchas gracias por sus proyectos del Hackathon, vamos a revisarlos y anunciaremos a los ganadores el viernes 18 de Nov. 
+
 ## Workshop 💻
 - Fecha: Noviembre 4, 2022
 - Temas cubiertos: `fundamentos de open source, primeros pasos con Git y GitHub`, `primeros pasos con Git y GitHub`, `GitHub Actions`, `creación de aplicaciones con ayuda del Student Developer Pack`.
