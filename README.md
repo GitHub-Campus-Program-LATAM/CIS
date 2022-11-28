@@ -5,6 +5,16 @@
 
 Code Innovation Series es un programa de talleres para estudiantes centrado en código abierto
 
+## Actualización 28 Nov 💻
+
+Los ganadores del Hackathon son:
+
+* PokeTwil
+* Agrupar followers y following de GitHub
+* AUSB-AI 
+
+Muchas felicidades, nos pondremos en contacto para mandarles sus premios.
+
 ## Actualización 13 Nov 💻
 
 Muchas gracias por sus proyectos del Hackathon, vamos a revisarlos y anunciaremos a los ganadores el viernes 18 de Nov. 
